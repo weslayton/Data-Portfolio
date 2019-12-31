@@ -9,6 +9,6 @@ In this notebook, I clean and analyze data on Ghana's health infrastructure. Wit
 
 **NFL Surface Analytics:**
 
-https://nbviewer.jupyter.org/github/weslayton/Data-Portfolio/blob/master/nfl-surface-comparison.ipynb
+https://nbviewer.jupyter.org/github/weslayton/Data-Portfolio/blob/master/nfl-surface-analytics-comparison.ipynb
 
 In this notebook, I clean and analyze data given from the NFL in Kaggle's "NFL 1st and Future - Analytics" competition. By comparing the types of injuries, speed of players, and plotting the track of players on injury plays, we're able to compare the risk of injury on natural and synthetic playing surfaces.
