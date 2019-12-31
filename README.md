@@ -3,7 +3,7 @@ To open any projects, please see below for a list with the corresponding link to
 
 **Mapping Ghana Health Infrastructure:**
 
-https://nbviewer.jupyter.org/github/weslayton/Data-Portfolio/blob/master/mapping-ghana-health-infrastructure.ipynb
+https://nbviewer.jupyter.org/github/weslayton/Data-Portfolio/blob/master/mapping-ghana-health-infrastructure-notebook.ipynb
 
 In this notebook, I clean and analyze data on Ghana's health infrastructure. With the use of Plotly's powerful interactive visualizations, we're able to deepen the understanding of the health systems and even their distribution within the country.
 
