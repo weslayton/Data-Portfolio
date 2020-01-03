@@ -3,7 +3,7 @@ To open any projects, please see below for a list with the corresponding link to
 
 **Adverse Events in California Hospitals:**
 
-https://nbviewer.jupyter.org/github/weslayton/Data-Portfolio/blob/master/adverse-events-in-california-hospitals.ipynb
+https://nbviewer.jupyter.org/github/weslayton/Data-Portfolio/blob/master/adverse-hospital-events-in-california.ipynb
 
 In this notebook, I clean and analyze data on the rate of preventable adverse events in California hospitals. By taking a high-level statewide view, county view, and mapping the data, we're able to gain insight into the types of adverse events taking place, their prevalence, and their distribution within the state.
 
