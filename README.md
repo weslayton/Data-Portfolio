@@ -1,6 +1,12 @@
 # Data Science Portfolio:
 To open any projects, please see below for a list with the corresponding link to be able to properly view all visuals within the notebook (including Plotly outputs, which are not viewable within GitHub).
 
+**Adverse Events in California Hospitals:**
+
+https://nbviewer.jupyter.org/github/weslayton/Data-Portfolio/blob/master/adverse-events-in-california-hospitals.ipynb
+
+In this notebook, I clean and analyze data on the rate of preventable adverse events in California hospitals. By taking a high-level statewide view, county view, and mapping the data, we're able to gain insight into the types of adverse events taking place, their prevalence, and their distribution within the state.
+
 **Mapping Ghana Health Infrastructure:**
 
 https://nbviewer.jupyter.org/github/weslayton/Data-Portfolio/blob/master/mapping-ghana-health-infrastructure-notebook.ipynb
