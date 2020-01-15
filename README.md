@@ -5,6 +5,8 @@ To open any projects, please see below for a list with the corresponding link to
 
 https://public.tableau.com/views/MedicalCostsintheU_S_/Dashboard?:display_count=y&:origin=viz_share_link
 
+This is an interactive Tableau dashboard that gives insights on the factors that increase total charges for medical treatment.
+
 **Adverse Events in California Hospitals:**
 
 https://nbviewer.jupyter.org/github/weslayton/Data-Portfolio/blob/master/preventable-adverse-events-california.ipynb
