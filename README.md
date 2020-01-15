@@ -1,7 +1,7 @@
 # Data Science Portfolio:
 To open any projects, please see below for a list with the corresponding link to be able to properly view all visuals within the notebook (including Plotly outputs, which are not viewable within GitHub).
 
-# Medical Costs Tableau Dashboard:
+**Medical Costs Tableau Dashboard:**
 
 https://public.tableau.com/views/MedicalCostsintheU_S_/Dashboard?:display_count=y&:origin=viz_share_link
 
